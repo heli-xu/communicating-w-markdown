@@ -8,3 +8,8 @@
 ```
 cat_data <- read_table("raw/cat_data.txt")
 ```
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my porfolio
+- [ ] Introduce myself to the world
